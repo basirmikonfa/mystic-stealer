@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Mystic.Core</RootNamespace>
+    <AssemblyName>Mystic.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
